@@ -1,5 +1,5 @@
 # Yandex-image-parser
-Yandex image parser
+Replace "your_api_key" with your Yandex API key.Search. This code adds error handling when executing a request to the Yandex API.Search and returns None if an error occurs.
 
 # Donate:
 
