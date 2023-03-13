@@ -14,6 +14,7 @@ def search_image_yandex(query):
         "num": 1,
     }
 
+
     try:
         response = requests.post(url, json=params)
         response.raise_for_status()
